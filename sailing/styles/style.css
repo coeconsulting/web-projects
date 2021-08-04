@@ -1,0 +1,44 @@
+html {
+    font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Caveat', 'cursive';
+    background-image: url("images/12a");
+  }
+
+  h1 {
+    font-size: 70px; /* px means "pixels": the base font size is now 10 pixels high  */
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #424242;
+    text-shadow: 3px 3px 2px black;
+
+  }
+
+  p, li {
+    font-size: 25px; /* px means "pixels": the base font size is now 10 pixels high  */
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-shadow: 2px 2px 1px black;
+
+  }
+
+html {
+    background-color: #424242;
+}
+
+body {
+    width: 1200px;
+    margin: 4 4;
+    background-color: #999999;
+    padding: 60px 60px 60px 60px;
+    border: 5px solid black;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+
+}
